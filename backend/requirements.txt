@@ -1,0 +1,4 @@
+google.generativeai
+youtube_transcript_api
+flask
+flask-cors
